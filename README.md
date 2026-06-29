@@ -1,1 +1,1 @@
-# YieldCurvePCA
+#Obtained data from FRED on 1Y,2Y,3Y,5Y,7Y,10Y,20Y,and 30Y data to construct a yield curve and then used Principal Component Analysis to analyze three factors(level,shape, and curvature) and their variances to see which of them directly impacted the shape of the yield curve. 
